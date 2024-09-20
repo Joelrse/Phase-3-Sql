@@ -1,3 +1,7 @@
+How to install sqlite
+Mac: https://formulae.brew.sh/formula/sqlite
+Windows: https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#install-sqlite
+
 #References: https://www.w3schools.com/sql/default.asp 
 
 Create a new database using the following
